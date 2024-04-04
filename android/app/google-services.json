@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "900323395556",
+    "project_id": "break-down-asst",
+    "storage_bucket": "break-down-asst.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900323395556:android:942f93f16f5e3b044a29f1",
+        "android_client_info": {
+          "package_name": "com.example.break_down_assist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6C_JjHahhbXTJLoEzE4XqRU4k-LJTI9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
